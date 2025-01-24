@@ -2,5 +2,5 @@ plotly==5.10.0
 pandas==2.0.1
 streamlit==1.20.0
 scikit-learn==1.2.0
-setuptools>=50.0.0
-wheel
+setuptools==50.0.0  # ou a versão mais recente, se preferir
+wheel  # sem a versão especificada, para pegar a última versão
