@@ -1,6 +1,7 @@
 plotly==5.10.0
-pandas==2.1.0  # Ou versão mais recente disponível
+pandas==2.0.1  # Ou versão mais recente disponível
 streamlit==1.22.0  # Ou versão mais recente disponível
+numpy==1.24.0
 scikit-learn==1.3.0  # Ou versão mais recente disponível
 setuptools>=65.0.0  # Versão mais recente ou 50.0.0 para garantir compatibilidade
 wheel>=0.40.0  # Atualizado para versão mais recente
